@@ -1,0 +1,13 @@
+/* Header */
+header {
+    padding : 20px 0px;
+    text-align: center;
+}
+header h1 {
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: 3px;
+}
+h1 span {
+    background: skyblue;
+}
